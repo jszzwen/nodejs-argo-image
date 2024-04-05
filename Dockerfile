@@ -1,1 +1,1 @@
-FROM ghcr.io/eooce/nodejs:main
+FROM eooce/nodejs-argo:latest
